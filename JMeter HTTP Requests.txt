@@ -1,0 +1,41 @@
+GET HTTP Request:
+-Avg time(ms) - 55
+-Min time(ms) - 44
+-Max time(ms) - 77
+-Error% - 0.00%
+-Throughput - 1,4/sec
+
+PUT HTTP Request:
+-Avg time(ms) - 244
+-Min time(ms) - 239
+-Max time(ms) - 248
+-Error% - 0.00%
+-Throughput - 1,3/sec
+
+POST HTTP Request:
+-Avg time(ms) - 246
+-Min time(ms) - 244
+-Max time(ms) - 249
+-Error% - 0.00%
+-Throughput - 1.3/sec
+
+PATCH HTTP Request:
+-Avg time(ms) - 248
+-Min time(ms) - 245
+-Max time(ms) - 252
+-Error% - 0.00%
+-Throughput - 1,3/sec
+
+DELETE HTTP Request:
+-Avg time(ms) - 248
+-Min time(ms) - 247
+-Max time(ms) - 250
+-Error% - 0.00%
+-Throughput - 1,3/sec
+
+Total:
+-Avg time(ms) - 208
+-Min time(ms) - 44
+-Max time(ms) - 252
+-Error% - 0.00%
+-Throughput - 4,8/sec
