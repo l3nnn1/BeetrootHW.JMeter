@@ -1,6 +1,7 @@
 # _**My Beetroot Academy JMeter homework**_
 
-## Source: https://jsonplaceholder.typicode.com/
+## **Objective**: Using JMeter learn how to *Load Test API*
+### **Source**: https://jsonplaceholder.typicode.com/
 
  **This repository contains**:
  - HTTP Request.jmx file which contains GET,POST,PUT,PATCH,DELETE HTTP Requests;
